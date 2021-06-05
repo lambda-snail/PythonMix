@@ -2,6 +2,8 @@
 
 A hodge podge of various Python things. Currently only two projects in this folder, but more will surely be added in the future.
 
+I seriously doubt it, but I hope they can provide some inspiration or a good laugh to someone out there.
+
 # Content Guide
 
 ## WinPyTest
@@ -9,4 +11,4 @@ Contains two projects that were created when I explored the WinPy package. One p
 
 # License
 
-I release everything under the MIT license, unless otherwise stated.
+I release everything in this repo under the MIT license, unless otherwise stated.
