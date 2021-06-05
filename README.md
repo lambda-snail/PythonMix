@@ -9,4 +9,4 @@ Contains two projects that were created when I explored the WinPy package. One p
 
 # License
 
-I release everything under the MIT license.
+I release everything under the MIT license, unless otherwise stated.
