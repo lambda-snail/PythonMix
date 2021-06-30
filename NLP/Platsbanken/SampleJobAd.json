@@ -1,0 +1,119 @@
+{
+  'id': '24488841',
+  'external_id': '46-556986-5461-1041253-1',
+  'webpage_url': 'https://arbetsformedlingen.se/platsbanken/annonser/24488841',
+  'logo_url': None,
+  'headline': 'Full Stack Developer',
+  'application_deadline': '2021-07-09T23:59:59',
+  'number_of_vacancies': 1,
+  'description': {
+    'text': 'Polarium is a Swedish company dedicated to providing the best performing, safe and sustainable energy storage solutions built on lithium-ion technology. Polarium’s headquarters and R&D center are situated in Sweden and the manufacturing in Mexico. Through its global sales channels and representation in the US, South Africa, Sweden, UK, New Zealand and Indonesia, Polarium serves customers worldwide. Today, our market-leading solutions are in use on all continents and in all climate zones - from the Equator to the Arctic.\n\nAbout the job\n\nWe are looking for our new Full Stack Developer who will be responsible for developing infrastructure for our connected systems. The role also includes to develop the team tools and methods together with the team, and support internal and external stakeholder’s with your expertise. The position is based at the Polarium HQ in Kista. Business trips will occur occasionally, both international and within Sweden.\n\n\n\nResponsibilities:\n\n- Define and develop backend systems, API’s, client communication, and WEB interfaces\n- Develop modularized design blocks with re-use capabilities\n- Participate in connected systems specifications and architecture\n- Develop SW and infrastructure for all parts of our connected system\n- Support 3´rd parties with our tools and methods to ensure all SW is built to highest standards\n- Own deliveries from 3´rd party developer\n\n\n\n\nWho are you?\n\nWe are looking for a highly driven, detail oriented, and pro-active person with a passion for digital engineering, who constantly seeks new knowledge within the area. You have a minimum of 7 years’ experience from similar positions and we believe you have knowledge from agile development and enjoy fast growing cooperate environment.\n\nQualifications and experience:\n\n- Excellent experience using application specific SW systems\n- Excellent technical skills\n- Master or bachelor´s degree in relevant education\n- Excellent communication skills, and you are fluent in English, both spoken and written.\n\n\n\n\nWhat’s in it for you?\n\nWe offer a challenging position in an open and friendly environment where we help each other to develop and create value. Your work will have a true impact on Polariums future success.',
+    'text_formatted': 'Polarium is a Swedish company dedicated to providing the best performing, safe and sustainable energy storage solutions built on lithium-ion technology. Polarium’s headquarters and R&D center are situated in Sweden and the manufacturing in Mexico. Through its global sales channels and representation in the US, South Africa, Sweden, UK, New Zealand and Indonesia, Polarium serves customers worldwide. Today, our market-leading solutions are in use on all continents and in all climate zones - from the Equator to the Arctic.\n\nAbout the job\n\nWe are looking for our new Full Stack Developer who will be responsible for developing infrastructure for our connected systems. The role also includes to develop the team tools and methods together with the team, and support internal and external stakeholder’s with your expertise. The position is based at the Polarium HQ in Kista. Business trips will occur occasionally, both international and within Sweden.\n\n\n\nResponsibilities:\n\n- Define and develop backend systems, API’s, client communication, and WEB interfaces\n- Develop modularized design blocks with re-use capabilities\n- Participate in connected systems specifications and architecture\n- Develop SW and infrastructure for all parts of our connected system\n- Support 3´rd parties with our tools and methods to ensure all SW is built to highest standards\n- Own deliveries from 3´rd party developer\n\n\n\n\nWho are you?\n\nWe are looking for a highly driven, detail oriented, and pro-active person with a passion for digital engineering, who constantly seeks new knowledge within the area. You have a minimum of 7 years’ experience from similar positions and we believe you have knowledge from agile development and enjoy fast growing cooperate environment.\n\nQualifications and experience:\n\n- Excellent experience using application specific SW systems\n- Excellent technical skills\n- Master or bachelor´s degree in relevant education\n- Excellent communication skills, and you are fluent in English, both spoken and written.\n\n\n\n\nWhat’s in it for you?\n\nWe offer a challenging position in an open and friendly environment where we help each other to develop and create value. Your work will have a true impact on Polariums future success.',
+    'company_information': None,
+    'needs': None,
+    'requirements': None,
+    'conditions': 'Heltid\r\nAnställningstid enligt överenskommelse'
+  },
+  'employment_type': {
+    'concept_id': 'PFZr_Syz_cUq',
+    'label': 'Vanlig anställning',
+    'legacy_ams_taxonomy_id': '1'
+  },
+  'salary_type': {
+    'concept_id': 'oG8G_9cW_nRf',
+    'label': 'Fast månads- vecko- eller timlön',
+    'legacy_ams_taxonomy_id': '1'
+  },
+  'salary_description': 'Lön enligt överenskommelse',
+  'duration': {
+    'concept_id': 'a7uU_j21_mkL',
+    'label': 'Tillsvidare',
+    'legacy_ams_taxonomy_id': '1'
+  },
+  'working_hours_type': {
+    'concept_id': '6YE1_gAC_R2G',
+    'label': 'Heltid',
+    'legacy_ams_taxonomy_id': '1'
+  },
+  'scope_of_work': {
+    'min': 100,
+    'max': 100
+  },
+  'access': None,
+  'employer': {
+    'phone_number': None,
+    'email': None,
+    'url': 'http://www.polarium.com',
+    'organization_number': '5569865461',
+    'name': 'Polarium Energy Solutions AB',
+    'workplace': 'Polarium'
+  },
+  'application_details': {
+    'information': None,
+    'reference': None,
+    'email': None,
+    'via_af': False,
+    'url': 'https://join.polarium.com/jobs/1041253-full-stack-developer?promotion=202332-arbetsformedlingen',
+    'other': None
+  },
+  'experience_required': True,
+  'access_to_own_car': False,
+  'driving_license_required': False,
+  'driving_license': None,
+  'occupation': {
+    'concept_id': 'rz2m_96d_vyF',
+    'label': 'Databasutvecklare',
+    'legacy_ams_taxonomy_id': '2423'
+  },
+  'occupation_group': {
+    'concept_id': 'DJh5_yyF_hEM',
+    'label': 'Mjukvaru- och systemutvecklare m.fl.',
+    'legacy_ams_taxonomy_id': '2512'
+  },
+  'occupation_field': {
+    'concept_id': 'apaJ_2ja_LuF',
+    'label': 'Data/IT',
+    'legacy_ams_taxonomy_id': '3'
+  },
+  'workplace_address': {
+    'municipality': 'Stockholm',
+    'municipality_code': '0180',
+    'municipality_concept_id': 'AvNB_uwa_6n6',
+    'region': 'Stockholms län',
+    'region_code': '01',
+    'region_concept_id': 'CifL_Rzy_Mku',
+    'country': 'Sverige',
+    'country_code': '199',
+    'country_concept_id': 'i46j_HmG_v64',
+    'street_address': None,
+    'postcode': None,
+    'city': None,
+    'coordinates': [
+      18.06858,
+      59.329323
+    ]
+  },
+  'must_have': {
+    'skills': [],
+    'languages': [],
+    'work_experiences': [
+      {
+        'weight': 10,
+        'concept_id': 'rz2m_96d_vyF',
+        'label': 'Databasutvecklare',
+        'legacy_ams_taxonomy_id': '2423'
+      }
+    ]
+  },
+  'nice_to_have': {
+    'skills': [],
+    'languages': [],
+    'work_experiences': []
+  },
+  'publication_date': '2021-01-20T15:15:23',
+  'last_publication_date': '2021-07-09T23:59:59',
+  'removed': False,
+  'removed_date': None,
+  'source_type': 'VIA_PLATSBANKEN_DXA',
+  'timestamp': 1611152123060
+}
