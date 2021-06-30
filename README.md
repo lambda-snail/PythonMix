@@ -1,6 +1,6 @@
 # PythonMix
 
-A hodge podge of various Python things. Currently only two projects in this folder, but more will surely be added in the future.
+A hodge podge of various Python things. Currently only three projects in this folder, but more will surely be added in the future.
 
 I seriously doubt it will, but I hope this repo can provide some inspiration or a good laugh to someone out there.
 
